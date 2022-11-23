@@ -1,0 +1,42 @@
+{
+    "name": "Sinister (Red Squid) #0",
+    "symbol": "SRS",
+    "description": "Very limited supply with only 64 unique NFTs.\nEvery holder will become OG. Multiple utilities are coming, be ready.",
+    "image": "https://www.finsmes.com/wp-content/uploads/2021/03/square-300x300.jpg",
+    "creators": [
+        {
+            "address": "ETedUjuoWhoKWBt3YreSrDDexbvzmpjgAKRVhnvyRhU7",
+            "verified": true,
+            "share": 0
+        },
+        {
+            "address": "5N8gmgBpy8EKVALkDeBQg7xk138iPJvDA3SpmZdn6j9Y",
+            "verified": false,
+            "share": 100
+        }
+    ],
+    "attributes": [
+        {
+            "trait_type": "Family",
+            "value": "Rejecty"
+        },
+        {
+            "trait_type": "Key",
+            "value": "lambda"
+        },
+        {
+            "trait_type": "Day",
+            "value": "Monday"
+        }
+    ],
+    "seller_fee_basis_points": 500,
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.finsmes.com/wp-content/uploads/2021/03/square-300x300.jpg",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
